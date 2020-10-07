@@ -1,3 +1,8 @@
+/*
+ * Name: Angus Wai
+ * Student #: 100719558
+ */
+
 #include "GameObject.h"
 
 GameObject::GameObject(): m_id(0), m_position(Vector2D())

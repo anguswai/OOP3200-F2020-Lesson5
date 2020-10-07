@@ -1,3 +1,8 @@
+/*
+ * Name: Angus Wai
+ * Student #: 100719558
+ */
+
 #pragma once
 #ifndef __GAME_OBJECT__
 #define __GAME_OBJECT__
